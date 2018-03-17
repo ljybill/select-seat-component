@@ -1,0 +1,11 @@
+{
+  "name": "seat",
+  "version": "1.0.0",
+  "description": "a select seat function for ali",
+  "main": "index.html",
+  "author": "ljybill@aliyun.com",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.1.1"
+  }
+}
